@@ -14,8 +14,6 @@
 ****
 **tldr**
 - ```tldr (command)``` to get a tldr of the man pages of that command
-<br>
-<br>
 ## Term stuff
 **ping**
 - ```ping (website)``` to see if it is live/ping to it
@@ -24,16 +22,16 @@
 - ```whois (website)``` see the owner of some domain's info
 ****
 **Caffeinate**
--```caffeinate -[d/t] [3600]``` Keep screen on [d], keep screen on for x seconds [-t x]
+- ```caffeinate -[d/t] [3600]``` Keep screen on [d], keep screen on for x seconds [-t x]
 ****
 **wttr**
 - ```wttr``` current weather report
 ****
 **zsh_stats**
--```zsh_stats``` shows the top 20 most-used commands and stats
+- ```zsh_stats``` shows the top 20 most-used commands and stats
 ****
 **say**
--```say "message"``` text to speech a message in term
+- ```say "message"``` text to speech a message in term
 ****
 **units**
--```units``` Starts Have/Want prompts for conversions
+- ```units``` Starts Have/Want prompts for conversions
